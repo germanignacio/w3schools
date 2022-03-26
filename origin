@@ -1,0 +1,78 @@
+[33mcommit 748c0fa8e8bddf471bb956d1d0c5188f4ca32ae7[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: germanignacio <84206773+germanignacio@users.noreply.github.com>
+Date:   Thu Mar 17 19:22:12 2022 -0300
+
+    Update README.md with a line about GitHub
+
+[33mcommit d27581fb29c7aac9924ee53acc318cc3e5c13734[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: German Basilio <Ignacio.basiliog@gmail.com>
+Date:   Wed Mar 16 00:07:41 2022 -0300
+
+    added image to hello git
+
+[33mcommit 7b1d144c98df1e57532899a7ecb7db0c7cf2e43e[m
+Merge: d514956 62c4536
+Author: German Basilio <Ignacio.basiliog@gmail.com>
+Date:   Tue Mar 15 03:28:21 2022 -0300
+
+    merged with hello-world-images after fixing conflicts
+
+[33mcommit 62c453684f5d9051125cfb47e613550df93106df[m
+Author: German Basilio <Ignacio.basiliog@gmail.com>
+Date:   Tue Mar 15 03:24:43 2022 -0300
+
+    added new image
+
+[33mcommit d51495624e3643dcf3f5315a07847b36186e54f7[m
+Author: German Basilio <Ignacio.basiliog@gmail.com>
+Date:   Tue Mar 15 03:22:18 2022 -0300
+
+    updated index.html with emergency fix
+
+[33mcommit 996df82276a78551fd956fa0bc2965cc5f9e4fd6[m
+Author: German Basilio <Ignacio.basiliog@gmail.com>
+Date:   Tue Mar 15 03:19:11 2022 -0300
+
+    added image to Hello World
+
+[33mcommit 5924fdcdb15113148e350231803fc14b0cb597d0[m
+Author: German Basilio <Ignacio.basiliog@gmail.com>
+Date:   Tue Mar 15 03:14:43 2022 -0300
+
+    Added image to Hello World
+
+[33mcommit 5ccb5897dee7c20954e4b7f311a528430c00cdf9[m
+Author: German Basilio <Ignacio.basiliog@gmail.com>
+Date:   Tue Mar 15 03:13:37 2022 -0300
+
+    roberto
+
+[33mcommit b3293e604c0580b73265f6c92b5dd57bc1f1fc3a[m
+Author: German Basilio <Ignacio.basiliog@gmail.com>
+Date:   Tue Mar 15 02:57:50 2022 -0300
+
+    Added image to Hello World
+
+[33mcommit 85c71d465a127af4afead390e8225dd7299afbf7[m
+Author: German Basilio <Ignacio.basiliog@gmail.com>
+Date:   Tue Mar 15 02:54:27 2022 -0300
+
+    updated index.html with a new line
+
+[33mcommit 11b7f21ca44b29f835bbf136a3deff4707344135[m
+Author: German Basilio <Ignacio.basiliog@gmail.com>
+Date:   Tue Mar 15 02:40:58 2022 -0300
+
+    Added image to Hello World
+
+[33mcommit bae632b3cecffc394d2de83cf456e9360b922213[m
+Author: German Basilio <Ignacio.basiliog@gmail.com>
+Date:   Tue Mar 15 02:35:13 2022 -0300
+
+    Updated index.html with a new line
+
+[33mcommit fc654443e59c118c95196c7606cacf8111e5f676[m
+Author: German Basilio <Ignacio.basiliog@gmail.com>
+Date:   Tue Mar 15 02:33:37 2022 -0300
+
+    first release of Hello World!
